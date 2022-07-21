@@ -16,7 +16,7 @@ POST: /api/sql/individual -> to create a new individual
 
 
 POST: /api/sql/contract -> to create a new contract
-requestBody: 
+- requestBody: 
 {
     "individualnationalid":1,
     "roleofcustomer":"manager",
