@@ -29,3 +29,5 @@ POST: /api/sql/contract -> to create a new contract
 
 - In order to create database chhange credentials ConnectionString in appsettings.json file in SearchAPI project and run command Update-Database by switching 
 Default project to DAL-DB in package manager console.
+
+- For SearchAPI data is coming from contract.xml and individual.xml files which you can find in project directory.
