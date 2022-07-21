@@ -27,5 +27,5 @@ POST: /api/sql/contract -> to create a new contract
     "installmentamountcurrency":"usd"
 }
 
-In order to create database chhange credentials ConnectionString in appsettings.json file in SearchAPI project and run command Update-Database by switching 
+-- In order to create database chhange credentials ConnectionString in appsettings.json file in SearchAPI project and run command Update-Database by switching 
 Default project to DAL-DB in package manager console.
