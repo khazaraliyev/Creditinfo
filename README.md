@@ -6,7 +6,7 @@ search/{id} -> to search individual
 search/detail/{id} -> to get individual details
 
 POST: /api/sql/individual -> to create a new individual
--requestBody:
+- requestBody:
 {
     "firstname":"elizabeth",
     "lastname":"olsen",
