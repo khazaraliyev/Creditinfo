@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<contract individualNationalId="1">
+		<roleOfCustomer>Manager</roleOfCustomer>
+		<phaseOfContract>dump</phaseOfContract>
+		<originalAmount.value>1200</originalAmount.value>
+		<originalAmount.currency>USD</originalAmount.currency>
+		<installmentAmount.value>1201</installmentAmount.value>
+		<installmentAmount.currency>USD</installmentAmount.currency>
+	</contract>
+</root>

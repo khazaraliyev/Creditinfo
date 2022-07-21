@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<individual nationalId="1">
+		<firstname>John</firstname>
+		<lastname>Doe</lastname>
+		<dateofbirth>02041990</dateofbirth>
+		<gender>male</gender>
+	</individual>
+
+	<individual nationalId="2">
+		<firstname>Adam</firstname>
+		<lastname>Lambert</lastname>
+		<dateofbirth>02031980</dateofbirth>
+		<gender>male</gender>
+	</individual>
+
+	<individual nationalId="3">
+		<firstname>Elizabeth</firstname>
+		<lastname>Olsen</lastname>
+		<dateofbirth>16021989</dateofbirth>
+		<gender>female</gender>
+	</individual>
+</root>
